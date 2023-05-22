@@ -29,8 +29,11 @@ npm i
  ![image](https://github.com/jalvarez322/ORM-Ecommerce-Challenge/assets/128071922/c0924ad7-796a-4355-b208-a1b82140e090)
  
 -Creates A DB through a mySql framework or shellusing the schema provided in 'db' folder.
+
 -Run node seeds to seed the database.
+
 -Run npm run watch or node server.js to start the server.
+
 -Use an API platform such as Postman or Insomnia to send requests.
 
 ## Credits
